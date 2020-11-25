@@ -1,11 +1,11 @@
 # Real-time Leaderboard
 
-## Description: 
+## Description
 A leaderboard is the most commonly used game feature across multiplayer games. Though leaderboard can be of various types and some times customized as per requirement but basic tenant remains same i.e. to rank the players. Providing leaderboard as a service will help any new/old game add this functionality to the game very quickly
 
 Build a leaderboard system where users can compare their performance against other players. Users will want to compare their total score against other players as well as view the leaderboard for specific levels in the game. Finally, a user may want to see all of the scores they’ve received in a particular level.
 
-Solution hints:
+## Solution hints:
 
 1. Setup an IDE and an AWS account
 2. Provision a database (use Aurora Serverless). 
@@ -37,10 +37,10 @@ Solution hints:
 8. Detailed setup information: https://aws.amazon.com/getting-started/hands-on/real-time-leaderboard-amazon-aurora-serverless-elasticache/
 
 
-Tags:
+## Tags
 #leaderboard #aurora #elasticache #cloud9 #cognito #lambda
 
-Rubric:
+## Rubric
 
 * All project code is stored in a github repo
 * The project uses an in-memory cache such as Amazon Elasticache to perform high volume, low latency leaderboard checks
@@ -51,11 +51,11 @@ Rubric:
 * Project uses SAM to manage serverless application
 
 
-Suggested trainings/labs:
-https://awsauroralabsmy.com/index.html
-https://github.com/aws-samples/amazon-S3-cache-with-amazon-elasticache-redis
-SAM Cli (https://github.com/aws-samples/reinvent2019-svs217)
-https://serverless-idm.awssecworkshops.com/
+## Suggested trainings/labs:
+* https://awsauroralabsmy.com/index.html
+* https://github.com/aws-samples/amazon-S3-cache-with-amazon-elasticache-redis
+* SAM Cli (https://github.com/aws-samples/reinvent2019-svs217)
+* https://serverless-idm.awssecworkshops.com/
 
-Source Code:
+## Source Code
 https://aws.amazon.com/getting-started/hands-on/real-time-leaderboard-amazon-aurora-serverless-elasticache/2/
