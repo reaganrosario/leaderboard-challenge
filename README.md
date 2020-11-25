@@ -40,6 +40,9 @@ Build a leaderboard system where users can compare their performance against oth
 8. Detailed setup information: https://aws.amazon.com/getting-started/hands-on/real-time-leaderboard-amazon-aurora-serverless-elasticache/
 </details>
 
+## Base source Code
+https://aws.amazon.com/getting-started/hands-on/real-time-leaderboard-amazon-aurora-serverless-elasticache/2/
+
 ## Tags
 #leaderboard #aurora #elasticache #cloud9 #cognito #lambda
 
