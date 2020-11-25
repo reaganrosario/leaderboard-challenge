@@ -1,6 +1,6 @@
-Real-time Leaderboard
+# Real-time Leaderboard
 
-Description: 
+## Description: 
 A leaderboard is the most commonly used game feature across multiplayer games. Though leaderboard can be of various types and some times customized as per requirement but basic tenant remains same i.e. to rank the players. Providing leaderboard as a service will help any new/old game add this functionality to the game very quickly
 
 Build a leaderboard system where users can compare their performance against other players. Users will want to compare their total score against other players as well as view the leaderboard for specific levels in the game. Finally, a user may want to see all of the scores they’ve received in a particular level.
