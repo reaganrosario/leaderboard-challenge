@@ -5,8 +5,10 @@ A leaderboard is the most commonly used game feature across multiplayer games. T
 
 Build a leaderboard system where users can compare their performance against other players. Users will want to compare their total score against other players as well as view the leaderboard for specific levels in the game. Finally, a user may want to see all of the scores they’ve received in a particular level.
 
-## Solution hints
 
+## Solution hints
+<details>
+<summary>Click to expand!</summary>
 1. Setup an IDE and an AWS account
 2. Provision a database (use Aurora Serverless). 
     1. Use the Data API for Aurora serverless to query your database via HTTP. Use AWS SDK for javascript (https://aws.amazon.com/sdk-for-node-js/) with the Data API.
@@ -35,7 +37,7 @@ Build a leaderboard system where users can compare their performance against oth
     2. Use Amazon API Gateway yo configure an HTTP endpoint
     3. You can use AWS SAM to manage your serverless application.
 8. Detailed setup information: https://aws.amazon.com/getting-started/hands-on/real-time-leaderboard-amazon-aurora-serverless-elasticache/
-
+</details>
 
 ## Tags
 #leaderboard #aurora #elasticache #cloud9 #cognito #lambda
