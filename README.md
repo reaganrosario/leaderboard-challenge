@@ -5,7 +5,7 @@ A leaderboard is the most commonly used game feature across multiplayer games. T
 
 Build a leaderboard system where users can compare their performance against other players. Users will want to compare their total score against other players as well as view the leaderboard for specific levels in the game. Finally, a user may want to see all of the scores they’ve received in a particular level.
 
-## Solution hints:
+## Solution hints
 
 1. Setup an IDE and an AWS account
 2. Provision a database (use Aurora Serverless). 
