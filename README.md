@@ -63,5 +63,4 @@ https://aws.amazon.com/getting-started/hands-on/real-time-leaderboard-amazon-aur
 * https://github.com/aws-samples/reinvent2019-svs217 (SAM Cli)
 * https://serverless-idm.awssecworkshops.com/
 
-## Source Code
-https://aws.amazon.com/getting-started/hands-on/real-time-leaderboard-amazon-aurora-serverless-elasticache/2/
+
