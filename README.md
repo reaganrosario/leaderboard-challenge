@@ -9,6 +9,7 @@ Build a leaderboard system where users can compare their performance against oth
 ## Solution hints
 <details>
 <summary>Click to expand!</summary>
+    
 1. Setup an IDE and an AWS account
 2. Provision a database (use Aurora Serverless). 
     1. Use the Data API for Aurora serverless to query your database via HTTP. Use AWS SDK for javascript (https://aws.amazon.com/sdk-for-node-js/) with the Data API.
