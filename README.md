@@ -54,7 +54,7 @@ Build a leaderboard system where users can compare their performance against oth
 ## Suggested trainings/labs:
 * https://awsauroralabsmy.com/index.html
 * https://github.com/aws-samples/amazon-S3-cache-with-amazon-elasticache-redis
-* SAM Cli (https://github.com/aws-samples/reinvent2019-svs217)
+* https://github.com/aws-samples/reinvent2019-svs217 (SAM Cli)
 * https://serverless-idm.awssecworkshops.com/
 
 ## Source Code
